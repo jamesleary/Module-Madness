@@ -23,6 +23,3 @@ The second function export should return the text “Account balance: \n”.
 server.js
 
 Finally, in the server.js file use the functions from your third module to produce the following output when you visit http://localhost:3000 in your browser:
-
-Account balance:
-$156,301
