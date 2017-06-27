@@ -1,6 +1,7 @@
 
 
 function converter(number) {
-  return ('$ ' + number +'.00');}
+  return (number.toLocaleString());
+}
 
 module.exports = converter;
